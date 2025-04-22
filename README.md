@@ -23,7 +23,7 @@ Optionally, you can use **pipx** for a self-contained installation of the tool.
 
    ```bash
    git clone https://github.com/zainkazmi786/learnl.git
-   cd os
+   cd learnl
 
 2. **Set up a virtual environment (recommended):**  
    It's a good practice to create a virtual environment to isolate dependencies:
