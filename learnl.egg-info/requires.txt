@@ -1,0 +1,3 @@
+requests
+python-dotenv
+prompt-toolkit>=3.0.0

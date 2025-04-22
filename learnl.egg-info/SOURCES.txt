@@ -1,0 +1,14 @@
+README.md
+setup.py
+learnl/__init__.py
+learnl/llm.py
+learnl/main.py
+learnl/shell.py
+learnl/try.py
+learnl/utils.py
+learnl.egg-info/PKG-INFO
+learnl.egg-info/SOURCES.txt
+learnl.egg-info/dependency_links.txt
+learnl.egg-info/entry_points.txt
+learnl.egg-info/requires.txt
+learnl.egg-info/top_level.txt

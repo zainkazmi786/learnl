@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: learnl
+Version: 0.1.0
+Summary: Your AI command assistant for Linux terminal
+Author: Your Name
+Requires-Dist: requests
+Requires-Dist: python-dotenv
+Requires-Dist: prompt-toolkit>=3.0.0
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
