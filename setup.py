@@ -4,7 +4,7 @@ setup(
     name="learnl",
     version="0.1.0",
     description="Your AI command assistant for Linux terminal",
-    author="Asim - Zain",
+    author="Aasim - Zain",
     packages=find_packages(),
     install_requires=[
         "requests",
