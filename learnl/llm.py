@@ -57,7 +57,7 @@ Now they asked:
 {question}
 
 Reply ONLY with the correct Linux shell command(s) to solve the problem.
-Do NOT include any explanations, descriptions, or extra text.
+Do include any precise 3-4 word explanations, description, or extra text in comment after the command .
 """.strip()
 
 def extract_commands(response_json):
