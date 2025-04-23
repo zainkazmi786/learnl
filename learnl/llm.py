@@ -58,6 +58,8 @@ Now they asked:
 
 Reply ONLY with the correct Linux shell command(s) to solve the problem.
 Do include any precise 3-4 word explanations, description, or extra text in comment after the command .
+sample command is: makdir test # mkdir creates 
+Do not include any other text or explanations.
 """.strip()
 
 def extract_commands(response_json):
